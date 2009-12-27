@@ -1,0 +1,3 @@
+# RailsAlgorithms
+module Algorithms
+end
